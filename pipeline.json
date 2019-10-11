@@ -1,0 +1,21 @@
+{
+  "application": {
+    "name": "Sample Java Application",
+    "type": "java"
+  },
+  "build": {
+    "path": null,
+    "outputPath": null
+  },
+  "test": {
+    "enabled": true,
+    "path": null
+  },
+  "archive": {
+    "registry": "docker.io",
+    "repository": "saddamkhalil/saddam"
+  },
+  "deploy": {
+    "containerPort": 8080
+  }
+}

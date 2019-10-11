@@ -10,7 +10,7 @@ Building and running
 or
 
     ./mvnw clean package
-    java -jar target/hello.jar
+    java -jar target/jsp-boot-tst.war
     
     
 Verification:
